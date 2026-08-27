@@ -1,5 +1,8 @@
 # 🏦 Bank Loan Analysis - Resume & Portfolio Talking Points
 
+> 🌐 **Live Web Application**: [https://mahatoaditya24-bank-loan-analysis-streamlit-app-acxpwj.streamlit.app/](https://mahatoaditya24-bank-loan-analysis-streamlit-app-acxpwj.streamlit.app/)  
+> 🔗 **GitHub Repository**: [https://github.com/mahatoaditya24/Bank-Loan-Analysis](https://github.com/mahatoaditya24/Bank-Loan-Analysis)
+
 ## 🎯 Short & Punchy (1–2 Lines for Standard CVs)
 - **Bank Loan & Credit Risk Analytics Platform**: Engineered an end-to-end banking analytics system across 38.5k+ loans, modeling MoM capital disbursement, Good vs. Bad loan default severity (~13.8%), and borrower leverage via SQL, Power BI, Tableau, and Streamlit.
 - **Retail Credit Portfolio Analytics**: Developed modular SQL queries and interactive BI dashboards tracking $435M+ funded capital, achieving real-time risk tiering and loss exposure monitoring across 50 US states.

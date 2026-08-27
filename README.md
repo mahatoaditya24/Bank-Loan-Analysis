@@ -1,12 +1,15 @@
 # 🏦 Bank Loan Portfolio & Credit Risk Analytics Platform
 
+[![Live Demo](https://img.shields.io/badge/Live_App-Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://mahatoaditya24-bank-loan-analysis-streamlit-app-acxpwj.streamlit.app/)
 [![CI Pipeline](https://github.com/mahatoaditya24/Bank-Loan-Analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/mahatoaditya24/Bank-Loan-Analysis/actions)
 [![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11-3776AB?logo=python&logoColor=white)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)](https://mahatoaditya24-bank-loan-analysis-streamlit-app-acxpwj.streamlit.app/)
 [![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Tableau](https://img.shields.io/badge/Tableau-Workbook-E97627?logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![SQL](https://img.shields.io/badge/SQL-T--SQL%20%2F%20SQL%20Server-CC292B?logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/sql-server)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+> 🚀 **Live Interactive Web App**: **[https://mahatoaditya24-bank-loan-analysis-streamlit-app-acxpwj.streamlit.app/](https://mahatoaditya24-bank-loan-analysis-streamlit-app-acxpwj.streamlit.app/)**
 
 An enterprise-grade **Banking Analytics & Credit Risk Management Platform** engineered to assess retail loan portfolio health, capital recovery efficiency, creditworthiness, and default risk exposure across **38,576+ loan applications** ($435.8M funded capital, $473.1M cash received).
 
